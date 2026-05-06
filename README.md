@@ -1,16 +1,31 @@
-## Hi there 👋
+# Quinn
 
-<!--
-**aboutsssa/aboutsssa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a human geographer and disaster recovery researcher working at the intersection of post-disaster reconstruction, participatory GIS, spatial planning, and socio-ecological resilience.
 
-Here are some ideas to get you started:
+My work integrates GIS, remote sensing, spatial data science, public sentiment analysis, and community-based methods to understand how disaster-affected regions recover, adapt, and re-inhabit place over time.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Research Interests
+
+- Post-disaster recovery and reconstruction
+- Disaster geography and resilience governance
+- Participatory GIS and humanistic GIS
+- Socio-ecological systems and ecological restoration
+- Vernacular settlements and climate adaptation
+- Spatial data science and GeoAI
+
+## Methods
+
+- GIS and remote sensing
+- Google Earth Engine
+- Difference-in-Differences and Synthetic Control Method
+- Structural break analysis
+- Social media sentiment analysis
+- Discrete choice experiments
+- PPGIS and community-based mapping
+
+## Current Projects
+
+- Long-term recovery trajectories after the Wenchuan Earthquake
+- Public emotion and risk perception after earthquake disasters
+- Climate-adaptive design in Western Sichuan Linpan settlements
+- Ecosystem service recovery under different reconstruction pathways
