@@ -13,16 +13,6 @@ My work integrates GIS, remote sensing, spatial data science, public sentiment a
 - Vernacular settlements and climate adaptation
 - Spatial data science and GeoAI
 
-## Methods
-
-- GIS and remote sensing
-- Google Earth Engine
-- Difference-in-Differences and Synthetic Control Method
-- Structural break analysis
-- Social media sentiment analysis
-- Discrete choice experiments
-- PPGIS and community-based mapping
-
 ## Current Projects
 
 - Long-term recovery trajectories after the Wenchuan Earthquake
